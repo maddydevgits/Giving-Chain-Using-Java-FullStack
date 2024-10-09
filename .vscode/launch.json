@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GivingChainApplication<GivingChain>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.makeskilled.GivingChain.GivingChainApplication",
+            "projectName": "GivingChain",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
